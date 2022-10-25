@@ -2,23 +2,23 @@ vCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Sriya Ravi
+Sriya Ravi
+Software Developer
 
 Show Contacts
 
 Email
-richard@example.com
+sriya.ravi@gmail.com
 
 Phone
-+1 (213) 352-2795
++91 8668108631
 
 Birthday
-June 23, 1982
+April 8, 2000
 
 Location
-Sacramento, California, USA
+Chennai, India
 
 # navbar
 
